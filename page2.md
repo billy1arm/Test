@@ -1,5 +1,8 @@
 From nothing to a working windows mangos server
 ---
+[![](page1.gif)](page1.md)
+[![](page2sel.gif)](page2.md)
+[![](page3.gif)](page3.md)
 ###Part 2 - Setting up the build environment
 **Zlib**
 The default ZLib installation has an error which needs to be corrected. Locate the file `zconf.h` (normally in `program files\gnuwin32\include\`) and edit it (I would advise wordpad rather than notepad here). To find the line, just search for `#if 1`   
