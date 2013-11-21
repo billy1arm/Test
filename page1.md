@@ -65,7 +65,3 @@ From nothing to a working windows mangos server
         Also tick the checkbox 'enable root access from remote machines'
 
 	At this point, take a short break and relax, it gets much easier from now on.
-
-[**Part 2 - Setting up the build environment**](MangosZero%2018.1%20Build%20Part%202) 
-
-[**Part 3 - Downloading the Source and building it**](MangosZero%2018.1%20Build%20Part%203)
