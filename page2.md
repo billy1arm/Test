@@ -43,6 +43,3 @@ Now copy the `lib` and `bin` folders in `ace_wrappers` to folder `Program Files/
 
 Congratulations, that is the build environment configured. You will not have to do the above steps again unless you are installing your OS :D
 
-[**Part 1 - Downloading and Installling the required software**](MangosZero%2018.1%20Build%20Part%201) 
-
-[**Part 3 - Downloading the Source and building it**](MangosZero%2018.1%20Build%20Part%203) 
