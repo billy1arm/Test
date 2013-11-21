@@ -1,7 +1,7 @@
 From nothing to a working windows mangos server
 ---
 [![](page1.gif)](http://www.getmangos.co.uk)
-[![](page1.gif)](page2)
+[![](page2.gif)](page2.md)
 
 
 ###Part 1 - Downloading and Installling the required software
