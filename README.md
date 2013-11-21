@@ -1,6 +1,6 @@
 From nothing to a working windows mangos server
 ---
-[![](page1.gif)](page1)
+[![](page1sel.gif)](page1)
 [![](page2.gif)](page2)
 [![](page3.gif)](page3)
 
