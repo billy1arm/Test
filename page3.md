@@ -48,6 +48,3 @@ Open up the VS solution as normal and build.
 
 Once the build is complete, all the files you need are in folder xxxx
 
-[**Part 1 - Downloading and Installling the required software**](MangosZero%2018.1%20Build%20Part%201) 
-
-[**Part 2 - Setting up the build environment**](MangosZero%2018.1%20Build%20Part%202) 
