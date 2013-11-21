@@ -1,6 +1,8 @@
 From nothing to a working windows mangos server
 ---
-![Page1](page1.gif)
+[![](page1.gif)](http://www.getmangos.co.uk)
+[![](page1.gif)](page2)
+
 
 ###Part 1 - Downloading and Installling the required software
 1. Install the OS - Either on a real PC or in a Virtual Machine
