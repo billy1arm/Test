@@ -2,7 +2,8 @@ From nothing to a working windows mangos server
 ---
 [![](page1.gif)](page1.md)
 [![](page2.gif)](page2.md)
-[![](page3sel.gif)](page3.md)###Part 3 - Downloading the Source and building it
+[![](page3sel.gif)](page3.md)
+###Part 3 - Downloading the Source and building it
 
 #####Downloading the source
 Click on Start, then Computer
