@@ -1,5 +1,8 @@
 From nothing to a working windows mangos server
 ---
+[![](page1sel.gif)](page1)
+[![](page2.gif)](page2)
+[![](page3.gif)](page3)
 ###Part 1 - Downloading and Installling the required software
 1. Install the OS - Either on a real PC or in a Virtual Machine
 
