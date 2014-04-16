@@ -1,8 +1,8 @@
 From nothing to a working windows mangos server
 ---
-[![](page1.gif)](page1.md)
-[![](page2.gif)](page2.md)
-[![](page3sel.gif)](page3.md)
+[![](/images/page1.gif)](page1.md)
+[![](/images/page2.gif)](page2.md)
+[![](/images/page3sel.gif)](page3.md)
 ###Part 3 - Downloading the Source and building it
 
 #####Downloading the source
