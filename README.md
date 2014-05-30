@@ -1,4 +1,4 @@
-![](https://www.getmangos.eu/images/primus/blue/misc/logo.png)
+![](https://www.getmangos.eu/images/primus/blue/misc/logo.png)&nbsp;
 [![](/icons/FORUM.gif)](https://getmangos.eu)
 [![](/icons/WIKI.gif)](http://github.com/mangoswiki/wiki/wiki)
 [![](/icons/TOOLS.gif)](http://github.com/mangostools)
