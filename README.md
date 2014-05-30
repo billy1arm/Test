@@ -7,7 +7,7 @@
 MangosZero 
 ==========
 ###- A World of Warcraft server for vanilla WoW  
-=======================================================
+----
 *MangosZero* is open source project, built in [C++][7], fast, runs on multiple,
 platforms, can store game data in [MySQL][40] and [PostgreSQL][42]. It has
 optional support for SOAP, and aims to be 100% compatible with [World of Warcraft][2] in its
@@ -135,7 +135,7 @@ respects for all of the code used other than [OpenSSL][48].
 
 [^1]: Visual Studio Express versions prior to the 2012 release can only
       build 32 bit applications, unless you install the Windows SDK.
-[^2]: Clang support for Windows is experimental. Failure to compile mangos-zero
+[^2]: Clang support for Windows is experimental. Failure to compile MangosZero
       may also relate to the experimental state of the port.
 
 [1]: http://blizzard.com/ "Blizzard Entertainment Inc. · we love you!"
