@@ -5,7 +5,7 @@
 [![Build status](https://travis-ci.org/mangoszero/server.png)][16]
 
 MangosZero 
-==========
+===
 ###- A World of Warcraft server for vanilla WoW  
 ----
 *MangosZero* is open source project, built in [C++][7], fast, runs on multiple,
