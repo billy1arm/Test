@@ -1,5 +1,5 @@
 [![](https://www.getmangos.eu/images/primus/blue/misc/logo.png)](http://www.getmangos.eu)&nbsp;
-[![](/icons/FORUM.gif)](https://forum.getmangos.eu)
+[![](/icons/FORUM.gif)](https://www.getmangos.eu/forum.php)
 [![](/icons/WIKI.gif)](http://github.com/mangoswiki/wiki/wiki)
 [![](/icons/TOOLS.gif)](http://github.com/mangostools)
 [![Build status](https://travis-ci.org/mangoszero/server.png)][16]
