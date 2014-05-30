@@ -105,9 +105,10 @@ Optional dependencies
 Discuss
 -------
 If you need help with building and installing *MangosZero* there is thousands
-of users out there already running *MangosZero* and many you can find on
+of users out there already running *MangosZero* and many you can find on our
+project website and discussion forum
 
-* project website and discussion forum: [getmangos.eu][10]
+* [getmangos.eu][10]
 
 License
 -------
