@@ -1,6 +1,6 @@
 # ![logo](https://www.getmangos.eu/images/primus/blue/misc/logo.png)
 [![](/icons/FORUM.gif)](https://getmangos.eu)
-[![](/icons/WIKI.gif)](http://github.com/mangoswiki/wiki)
+[![](/icons/WIKI.gif)](http://github.com/mangoswiki/wiki/home)
 [![](/icons/TOOLS.gif)](http://github.com/mangostools)
 
 Welcome to MaNGOS
