@@ -34,7 +34,7 @@ a cross-platform build system which adapts to your chosen operating system and c
 
 Operating systems
 -----------------
-Currently we support running *Mangos* on the following operating systems:
+Currently we support running the server on the following operating systems:
 
 * **Windows**, 32 bit and 64 bit. [Windows][20] Server 2008 (or newer) or Windows 7 (or newer) is recommended.
 * **Linux**, 32 bit and 64 bit. [Debian 7][21] and [Ubuntu 12.04 LTS][22] are
@@ -46,7 +46,7 @@ server versions will work, too.
 
 Compilers
 ---------
-Building Mangos is currently possible with these compilers:
+Building the server is currently possible with these compilers:
 
 * **Microsoft Visual Studio 32 bit and 64 bit.** All editions of [Visual Studio][31]
 from 2015 upwards are officially supported.
@@ -91,7 +91,8 @@ Optional dependencies
   Mangos API, you should install [Doxygen][49].
 
 
-<br>MaNGOS has a small, but extremely friendly and helpful community managed by MadMax and Antz. Any trolling or unpleasantness is swiftly dealt with !!
+<br>We have a small, but extremely friendly and helpful community managed by MadMax and Antz.
+<br>Any trolling or unpleasantness is swiftly dealt with !!
 - Our discord/forum motto is "Be nice or Be somewhere else"
 
 **Official Website**
