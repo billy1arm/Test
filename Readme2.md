@@ -148,6 +148,11 @@ Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 The full license is included in the file [LICENSE](LICENSE).
 
+We have all put in hundreds of hours of time for free to make the server what it
+is today.
+<br>All we ask is that if you modify the code and make improvements, please have
+the decency to feed those changes back to us.
+
 In addition, as a special exception, permission is granted to link the code of
 *Mangos* with the OpenSSL project's [OpenSSL library][48] (or with modified
 versions of it that use the same license as the OpenSSL library), and distribute
