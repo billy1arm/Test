@@ -9,7 +9,7 @@ Build Status: <br/>Linux
 </td></tr></table>
 <br>
 
-[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) **MangosZero - A World of Warcraft server for Vanilla WoW**
+[<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="32" valign="middle"/>](http://getmangos.eu) **MangosZero - A World of Warcraft server for Vanilla WoW**
 
 ---
 
@@ -102,7 +102,7 @@ MaNGOS has a small, but extremely friendly and helpful community managed by MadM
 
 We welcome anyone who is interested in enjoying older versions of wow or contributing and helping out !
 
-* [**Official MaNGOS Site**](https://getmangos.eu/)  
+* [**Official MaNGOS Website**](https://getmangos.eu/)  
 
 **Discord Server**
 ----
@@ -111,16 +111,22 @@ We welcome anyone who is interested in enjoying older versions of wow or contrib
 **Main Wiki**
 ----
 
-* [**Table of Contents**](http://getmangos.eu/wiki)  
+The repository of as much information as we can pack in. Details regarding the Database, file type definitions, packet definitons etc.
+
+* [**Wiki Table of Contents**](http://getmangos.eu/wiki)  
 
 
 **Bug / Issue Tracker**
 ----
 
-* [**Tracker**](https://www.getmangos.eu/bug-tracker/)  
+Found an issue or something which doesn't seem right, please log it in the relevant section of the Bug Tracker.
+
+* [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/mangos-zero/)
 
 **Installation Guides**
 ----
+
+Installation instructions for various operation systems can be found here.
 
 * [**Installation Guides**](https://www.getmangos.eu/wiki/documentation/installation-guides/) 
 
