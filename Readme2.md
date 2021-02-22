@@ -3,7 +3,7 @@
 <br>(sometimes called getMangos by external sites)
 ----
 
-**Official Websites**
+**Official Website**
 ----
 
 This is the central Repository for links to the many original MaNGOS repositories for those lost souls who have ended up here.
