@@ -1,13 +1,14 @@
-<table border=0 cellpadding=0 cellspacing=0 valign='top'><tr>
-<td><a href='https://www.getmangos.eu' target='getmangos.eu'><img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0></a></td>
-<td valign='top'>
-Build Status: <br/>Linux 
-<a href='https://travis-ci.org/mangoszero/server/builds' target='MangosZero'><img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle"></a>
- Windows 
-<a href='https://ci.appveyor.com/project/MaNGOS/server-9fytl/history' target='MangosZero'><img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=develop21&svg=true' border=0 valign="middle"></a><br>
-  Codacy Status <a href="https://www.codacy.com/app/MaNGOS/MangosZero?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mangoszero/server&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8" valign="middle"/></a>
-</td></tr></table>
-<br>
+[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://www.getmangos.eu)
+[<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
+
+Build Status:<br><b>Linux/MAC:</b>
+[<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle">](https://travis-ci.org/mangoszero/server/builds)
+<b>Windows:</b>
+[<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=develop21&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-9fytl/history)
+ <b>Codacy Status:</b> 
+[<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://www.codacy.com/app/MaNGOS/MangosZero?utm_source=github.com&utm_medium=referral&utm_content=mangoszero/server&utm_campaign=Badge_Grade)
+
+---
 
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="32" valign="middle"/>](http://getmangos.eu) **MangosZero - A World of Warcraft server for Vanilla WoW**
 
