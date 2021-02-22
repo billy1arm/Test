@@ -81,7 +81,7 @@ their systems package management instead of source packages.**
 * **OpenSSL**: [OpenSSL][48] ([OpenSSL for Windows][55]) provides encryption
   algorithms used when authenticating clients.
 
-**ACE**, **Recast**, **G3D** and **Stormlib** are included in the standard distribution as
+**ACE**, **Recast**, **G3D**, **Stormlib**, **Zlib** and **Bzip2** are included in the standard distribution as
 we rely on specific versions.
 
 Optional dependencies
