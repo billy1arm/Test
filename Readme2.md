@@ -1,5 +1,5 @@
 ----
-[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="64" valign="middle"/>](http://getmangos.eu)Welcome to the original MaNGOS
+[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="64" valign="middle"/>](http://getmangos.eu)Welcome to the original MaNGOS emu project
 <br>(sometimes called getMangos by external sites)
 ----
 
