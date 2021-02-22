@@ -89,10 +89,6 @@ Optional dependencies
 
 * **Doxygen**: if you want to export HTML or PDF formatted documentation for the
   Mangos API, you should install [Doxygen][49].
-* **Lua**: if you want to test drive how *Mangos* feels with [Lua][50] as
-  scripting language instead of the scripting library, you will need Lua **5.2.3**
-  installed. Although an internal version is included.
-
 
 MaNGOS has a small, but extremely friendly and helpful community managed by MadMax and Antz. Any trolling or unpleasantness is swiftly dealt with !!
 - Our discord/forum motto is "Be nice or Be somewhere else"
