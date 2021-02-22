@@ -14,7 +14,7 @@ Over the years we have had a selection of Icons:
 [<img src="https://www.getmangos.eu/!assets_mangos/oldlogo_variant.png" width="32" valign="middle"/>](http://getmangos.eu)
 [<img src="https://www.getmangos.eu/!assets_mangos/oldlogo2.png" width="32" valign="middle"/>](http://getmangos.eu)
 But have settled on the 
-[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) family of icons
+[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) family of icons which vary slightly by core/expansion
 
 The original ideals and insistence that MaNGOS remained an open-source educational project continues today.
 - To that end we are very beginner friendly, with many of the team available to help walk users through the initial setup/installation process.
