@@ -20,7 +20,7 @@ The original ideals and insistence that MaNGOS remained an open-source education
 - To that end we are very beginner friendly, with many of the team available to help walk users through the initial setup/installation process.
 - Something unique to mangos is that all junior devs are mentored by more experienced devs and are encouraged to talk through any issues they may have.
 
-MaNGOS has a small, but extremely friendly and helpful community. Any trolling or unpleasantness is swiftly dealt with.
+MaNGOS has a small, but extremely friendly and helpful community managed by MadMax and Antz. Any trolling or unpleasantness is swiftly dealt with !!
 - Our discord/forum motto is "Be nice or Be somewhere else"
 
 **Official Website**
