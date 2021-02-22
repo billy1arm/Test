@@ -11,7 +11,7 @@ Build Status:<br><b>Linux/MAC:</b>
 ---
 
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
- **MangosZero - Vanilla World of Warcraft game server**
+ **MangosZero - Vanilla World of Warcraft server**
 ===
 
 **Mangos** is an open source project written in [C++][7]. It's fast, runs on multiple
