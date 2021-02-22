@@ -32,7 +32,7 @@ We welcome anyone who is interested in enjoying older versions of wow or contrib
 
 ----
 
-We supports 5 WoW versions in different repositories: Vanilla, TBC, WOTLK, CATA and MOP (although the CATA and MOP branches are in need of work) written in c++.
+We supports 5 WoW versions: Vanilla, TBC, WOTLK, CATA and MOP (although the CATA and MOP branches are in need of work) written in c++ in many different github repositories.
 
 * [**Mangos Zero**](https://github.com/mangoszero/) - For Vanilla World of Warcraft
 * [**Mangos One**](https://github.com/mangosone/) - For World of Warcraft: The Burning Crusade
