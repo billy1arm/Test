@@ -1,6 +1,6 @@
 ----
 [<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="96" valign="middle"/>](http://getmangos.eu)Welcome to the original MaNGOS emu project
-<br>(sometimes called getMangos by external sites)
+<br>(sometimes called getMangos by external sites linking to us)
 ----
 
 MaNGOS was formally created sometime around the 28th August 2005 and until December 2012 theLuda was the leader of MaNGOS, at this time he handed over the reins to Antz (Billy1arm on github etc.) who has run the project ever since.
