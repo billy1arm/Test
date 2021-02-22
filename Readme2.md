@@ -3,10 +3,11 @@
 <br>(sometimes called getMangos by external sites)
 ----
 
-**Official Website**
-----
+MaNGOS was formally created sometime around the 28th August 2005 and until December 2012 theLuda was the leader of MaNGOS, at this time he handed over the reins to Antz (Billy1arm on github etc.) who has run the project ever since.
 
-This is the central Repository for links to the many original MaNGOS repositories for those lost souls who have ended up here.
+During its history several splits occurred (as with all big projects) - From these Trinity Core and Cmangos forks among others were formed.
+
+Due to legal disagreements, the website URL and icon has changed several times over its history. mangosproject.org, getmangos.com, getmangos.co.uk, its current home is getmangos.eu.
 
 Over the years we have had a selection of Icons: 
 [<img src="https://www.getmangos.eu/!assets_mangos/oldlogo1.png" width="32" valign="middle"/>](http://getmangos.eu)
@@ -15,11 +16,23 @@ Over the years we have had a selection of Icons:
 But have settled on the 
 [<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) family of icons
 
+The original ideals and insistence that MaNGOS remained an open-source educational project continues today.
+- To that end we are very beginner friendly, with many of the team available to help walk users through the initial setup/installation process.
+- Something unique to mangos is that all junior devs are mentored by more experienced devs and are encouraged to talk through any issues they may have.
+
+MaNGOS has a small, but extremely friendly and helpful community. Any trolling or unpleasantness is swiftly dealt with.
+- Our discord/forum motto is "Be nice or Be somewhere else"
+
+**Official Website**
+----
+
 We welcome anyone who is interested in enjoying older versions of wow or contributing and helping out !
 
 * [**Official MaNGOS Site**](https://getmangos.eu/)  
 
 ----
+
+We supports 5 WoW versions in different repositories: Vanilla, TBC, WOTLK, CATA and MOP (although the CATA and MOP branches are in need of work) written in c++.
 
 * [**Mangos Zero**](https://github.com/mangoszero/) - For Vanilla World of Warcraft
 * [**Mangos One**](https://github.com/mangosone/) - For World of Warcraft: The Burning Crusade
@@ -28,16 +41,17 @@ We welcome anyone who is interested in enjoying older versions of wow or contrib
 * [**Mangos Four**](https://github.com/mangosfour/) - For World of Warcraft: Mists of Pandaria
 * [**Mangos Tools**](https://github.com/mangostools/) - For General MaNGOS Tools and Utilities
 
-
-We are also supporting a continuation of the Spurious project in the form of MangosVB
+We also have a vb.Net based Emulator called MangosVB for Vanilla, TBC and WOTLK (originally called Spurious before merging under the MaNGOS banner).
 
 * [**MangosVB0**](https://github.com/mangosvb/serverZero/) - For Vanilla World of Warcraft
 * [**MangosVB1**](https://github.com/mangosvb/serverOne/) - For World of Warcraft: The Burning Crusade
 * [**MangosVB2**](https://github.com/mangosvb/serverTwo/) - For World of Warcraft: The Wrath of the Lich King
 
-In addition we now also have a prototype C# project MangosSharp (aka Mangos#) which is based on the work on mangosVB
+In addition we now also have a prototype C# project MangosSharp (aka Mangos#) using .Net 5, which is based on the work on mangosVB.
 
 * [**MangosSharp**](https://github.com/MangosServer/MangosSharp/) - For Vanilla World of Warcraft
+
+The overall plan is that all three sub-projects Mangos, MangosVB and Mangos# will use the same database across the cores.
 
 
 **Main Wiki**
