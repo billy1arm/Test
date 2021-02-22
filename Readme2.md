@@ -1,6 +1,7 @@
 ----
-#Welcome to the original MaNGOS (sometimes called getMangos by external sites)
+[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="64"/>](http://getmangos.eu)Welcome to the original MaNGOS (sometimes called getMangos by external sites)
 ----
+
 **Official Websites**
 ----
 
