@@ -90,7 +90,8 @@ Optional dependencies
 * **Doxygen**: if you want to export HTML or PDF formatted documentation for the
   Mangos API, you should install [Doxygen][49].
 
-MaNGOS has a small, but extremely friendly and helpful community managed by MadMax and Antz. Any trolling or unpleasantness is swiftly dealt with !!
+
+<br>MaNGOS has a small, but extremely friendly and helpful community managed by MadMax and Antz. Any trolling or unpleasantness is swiftly dealt with !!
 - Our discord/forum motto is "Be nice or Be somewhere else"
 
 **Official Website**
