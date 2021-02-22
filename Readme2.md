@@ -11,28 +11,26 @@
 <a href='https://ci.appveyor.com/project/MaNGOS/server-9fytl/history' target='MangosZero'><img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=develop21&svg=true' border=0></a><br>
   Codacy Status <a href="https://www.codacy.com/app/MaNGOS/MangosZero?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mangoszero/server&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8"/></a>
 </td></tr></table>
+<br>
 
-VANILLA WOW BRANCH
-===
-### A World of Warcraft server for Vanilla WoW  
-----
-*Mangos* is an open source project, built in [C++][7], it's fast, runs on multiple
-platforms, can store game data in [MySQL][40] and [MariaDB][41]. It also has 
+[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) <b>MangosZero - A World of Warcraft server for Vanilla WoW </b>
+
+---
+
+*Mangos* is an open source project written in [C++][7]. It's fast, runs on multiple
+platforms and stores game data in [MySQL][40] or [MariaDB][41]. It also has 
 optional support for SOAP, and aims to be 100% compatible with [World of Warcraft][2]
-in its vanilla versions, namely [patch 1.12.1][5] and [patch 1.12.2][6].
+in the final three vanilla versions, namely [patch 1.12.1][4], [patch 1.12.2][5] and [patch 1.12.3][6].
+IT DOES NOT SUPPORT 1.13.x and beyond which is the newly released Classic Experience (NuClassic).
 
-If you liked the first incarnation of [World of Warcraft][2] and still want to play
-[vanilla WoW][4], this is the branch for you. We provide an authentication
-server where you can manage your users, and a world server which serves game
-content just like the original did back then.
+If you liked the original incarnation of [World of Warcraft][2] and still want to play it,
+this is the branch for you. We provide an authentication server where you can manage your users, 
+and a world server which serves game content just like the original did back then.
 
-On top of that each update is built by [Travis CI][16] as you can see by the
-image next to the chapter's heading! We do love green builds, and working things.
-To complement this, we push builds through [Coverity][17] to find and fix any
-possible security issues.
+On top of that each update is built by [Travis CI][16] (Linux/MAC) and [AppVeyor][17] (Windows)
+as you can see by the images in the heading above! We do love green builds, and working things.
 
-World of Warcraft, and all World of Warcraft or Warcraft art, images, and lore are
-copyrighted by [Blizzard Entertainment, Inc.][1]
+World of Warcraft, and all related art, images, and lore are copyright [Blizzard Entertainment, Inc.][1]
 
 Requirements
 ------------
@@ -144,9 +142,9 @@ respects for all of the code used other than [OpenSSL][48].
 [1]: http://blizzard.com/ "Blizzard Entertainment Inc. · we love you!"
 [2]: http://blizzard.com/games/wow/ "World of Warcraft · Classic / Vanilla"
 [3]: http://wowpedia.org/Beta#World_of_Warcraft "World of Warcraft - Classic Beta"
-[4]: http://www.wowpedia.org/Patch_1.12.0 "Vanilla WoW · Patch 1.12.0 release notes"
-[5]: http://www.wowpedia.org/Patch_1.12.1 "Vanilla WoW · Patch 1.12.1 release notes"
-[6]: http://www.wowpedia.org/Patch_1.12.2 "Vanilla WoW · Patch 1.12.2 release notes"
+[4]: http://www.wowpedia.org/Patch_1.12.1 "Vanilla WoW · Patch 1.12.1 release notes"
+[5]: http://www.wowpedia.org/Patch_1.12.2 "Vanilla WoW · Patch 1.12.2 release notes"
+[6]: http://www.wowpedia.org/Patch_1.12.3 "Vanilla WoW · Patch 1.12.3 release notes"
 [7]: http://www.cppreference.com/ "C / C++ reference"
 
 [10]: https://getmangos.eu/ "mangos · project site"
@@ -154,8 +152,8 @@ respects for all of the code used other than [OpenSSL][48].
 [13]: https://github.com/mangoszero/server "MaNGOS Zero · server repository"
 [15]: https://github.com/mangoszero/database "MaNGOS Zero · content database repository"
 [16]: https://travis-ci.org/mangoszero/server "Travis CI . MaNGOS Zero build status"
-[17]: https://scan.coverity.com/ "Coverity Scan · Static Code Analysis"
-
+[17]: https://scan.coverity.com/ "Coverity Scan · Linux/MAC Static Code Analysis"
+[18]: https://ci.appveyor.com/ "AppVeyor Scan · Windows Static Code Analysis"
 [19]: http://www.cmake.org/ "CMake · Cross Platform Make"
 [20]: http://windows.microsoft.com/ "Microsoft Windows"
 [21]: http://www.debian.org/ "Debian · The Universal Operating System"
