@@ -8,7 +8,14 @@
 
 This is the central Repository for links to the many original MaNGOS repositories for those lost souls who have ended up here.
 
-We welcome contributions from anyone who is interested in helping out !
+Over the years we have had a selection of Icons: 
+[<img src="https://www.getmangos.eu/!assets_mangos/oldlogo1.png" width="32" valign="middle"/>](http://getmangos.eu)
+[<img src="https://www.getmangos.eu/!assets_mangos/oldlogo_variant.png" width="32" valign="middle"/>](http://getmangos.eu)
+[<img src="https://www.getmangos.eu/!assets_mangos/oldlogo2.png" width="32" valign="middle"/>](http://getmangos.eu)
+But have settled on the 
+[<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) family of icons
+
+We welcome anyone who is interested in enjoying older versions of wow or contributing and helping out !
 
 * [**Official MaNGOS Site**](https://getmangos.eu/)  
 
