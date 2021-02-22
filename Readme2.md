@@ -1,11 +1,7 @@
 <table border=0 cellpadding=0 cellspacing=0 valign='top'><tr>
 <td><a href='https://www.getmangos.eu' target='getmangos.eu'><img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0></a></td>
 <td valign='top'>
-<a href='https://www.getmangos.eu/forums/' target='getmangos.forum'><img src='/icons/FORUM.gif' border=0></a>
-<a href='https://www.getmangos.eu/wiki' target='getmangos.wiki'><img src='/icons/WIKI.gif' border=0></a>
-<a href='https://www.getmangos.eu/github-activity/' target='getmangos.activity'><img src='/icons/ACTIVITY.gif' border=0></a>
-<a href='https://www.getmangos.eu/bug-tracker/mangos-zero/' target='getmangos.tracker'><img src='/icons/TRACKER.gif' border=0></a>
-<br />Build Status: <br/>Linux 
+Build Status: <br/>Linux 
 <a href='https://travis-ci.org/mangoszero/server/builds' target='MangosZero'><img src='https://travis-ci.org/mangoszero/server.png' border=0></a>
  Windows 
 <a href='https://ci.appveyor.com/project/MaNGOS/server-9fytl/history' target='MangosZero'><img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=develop21&svg=true' border=0></a><br>
@@ -21,7 +17,7 @@
 platforms and stores game data in [MySQL][40] or [MariaDB][41]. It also has 
 optional support for SOAP, and aims to be 100% compatible with [World of Warcraft][2]
 in the final three vanilla versions, namely [patch 1.12.1][4], [patch 1.12.2][5] and [patch 1.12.3][6].
-IT DOES NOT SUPPORT 1.13.x and beyond which is the newly released Classic Experience (NuClassic).
+<br><b>IT DOES NOT SUPPORT 1.13.x</b> and beyond which is the newly released Classic Experience (NuClassic).
 
 If you liked the original incarnation of [World of Warcraft][2] and still want to play it,
 this is the branch for you. We provide an authentication server where you can manage your users, 
@@ -104,13 +100,36 @@ Optional dependencies
   scripting language instead of the scripting library, you will need Lua **5.2.3**
   installed. Although an internal version is included.
 
-Discuss
--------
-If you need help with building and installing *Mangos* there are thousands of
-users out there already running *Mangos* and many more you can find on our
-project website and discussion forum to assist with any issues you may have.
+MaNGOS has a small, but extremely friendly and helpful community managed by MadMax and Antz. Any trolling or unpleasantness is swiftly dealt with !!
+- Our discord/forum motto is "Be nice or Be somewhere else"
 
-* [getmangos.eu][10]
+**Official Website**
+----
+
+We welcome anyone who is interested in enjoying older versions of wow or contributing and helping out !
+
+* [**Official MaNGOS Site**](https://getmangos.eu/)  
+
+**Discord Server**
+----
+ [<img class="ipsImage" src="https://discordapp.com/api/guilds/286167585270005763/widget.png?style=banner3" alt='brilliantdiscord_widget'>](https://www.getmangos.eu/discord/invite/general/)
+
+**Main Wiki**
+----
+
+* [**Table of Contents**](http://getmangos.eu/wiki)  
+
+
+**Bug / Issue Tracker**
+----
+
+* [**Tracker**](https://www.getmangos.eu/bug-tracker/)  
+
+**Installation Guides**
+----
+
+* [**Installation Guides**](https://www.getmangos.eu/wiki/documentation/installation-guides/) 
+
 
 License
 -------
@@ -135,10 +154,6 @@ versions of it that use the same license as the OpenSSL library), and distribute
 the linked executables. You must obey the GNU General Public License in all
 respects for all of the code used other than [OpenSSL][48].
 
-
-[^2]: Clang support for Windows is experimental. Failure to compile Mangos
-      may also relate to the experimental state of the port.
-
 [1]: http://blizzard.com/ "Blizzard Entertainment Inc. · we love you!"
 [2]: http://blizzard.com/games/wow/ "World of Warcraft · Classic / Vanilla"
 [3]: http://wowpedia.org/Beta#World_of_Warcraft "World of Warcraft - Classic Beta"
@@ -151,9 +166,8 @@ respects for all of the code used other than [OpenSSL][48].
 [12]: https://github.com/mangoszero "MaNGOS Zero · github organization"
 [13]: https://github.com/mangoszero/server "MaNGOS Zero · server repository"
 [15]: https://github.com/mangoszero/database "MaNGOS Zero · content database repository"
-[16]: https://travis-ci.org/mangoszero/server "Travis CI . MaNGOS Zero build status"
-[17]: https://scan.coverity.com/ "Coverity Scan · Linux/MAC Static Code Analysis"
-[18]: https://ci.appveyor.com/ "AppVeyor Scan · Windows Static Code Analysis"
+[16]: https://travis-ci.org/mangoszero/server "Travis CI · Linux/MAC build status"
+[17]: https://ci.appveyor.com/ "AppVeyor Scan · Windows build status"
 [19]: http://www.cmake.org/ "CMake · Cross Platform Make"
 [20]: http://windows.microsoft.com/ "Microsoft Windows"
 [21]: http://www.debian.org/ "Debian · The Universal Operating System"
