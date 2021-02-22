@@ -3,9 +3,9 @@
 <br>(sometimes called getMangos by external sites linking to us)
 ----
 
-MaNGOS was formally created sometime around the 28th August 2005 and until December 2012 theLuda was the leader of MaNGOS, at this time he handed over the reins to Antz (Billy1arm on github etc.) who has run the project ever since.
+MaNGOS was formally announced as a public open source project around the 28th August 2005 by theLuda, he remained at the helm until December 2012 when he decided to retire from the emu scene. At this time he handed over the reins to Antz (Billy1arm on github etc.) who has run the project ever since.
 
-During its history several splits occurred (as with all big projects) - From these Trinity Core and Cmangos forks among others were formed.
+During its history several splits occurred (all prior to December 2012) and from these the Trinity Core & Cmangos forks among many others were formed.
 
 Due to legal disagreements, the website URL and icon has changed several times over its history. mangosproject.org, getmangos.com, getmangos.co.uk, its current home is getmangos.eu.
 
