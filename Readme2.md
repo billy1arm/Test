@@ -54,7 +54,7 @@ Building the server is currently possible with these compilers:
 from 2015 upwards are officially supported.
 
 * **Clang**, 32 bit and 64 bit. The [Clang compiler][33] can be used on any
-  supported operating system.[^2]
+  supported operating system.
 
 Dependencies
 ------------
