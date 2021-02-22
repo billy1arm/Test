@@ -12,7 +12,7 @@ Due to legal disagreements, the website URL and icon has changed several times o
 Over the years we have had a selection of Icons: 
 [<img src="https://www.getmangos.eu/!assets_mangos/oldlogo1.png" width="32" valign="middle"/>](http://getmangos.eu)
 [<img src="https://www.getmangos.eu/!assets_mangos/oldlogo_variant.png" width="32" valign="middle"/>](http://getmangos.eu)
-[<img src="https://www.getmangos.eu/!assets_mangos/oldlogo2.png" width="32" valign="middle"/>](http://getmangos.eu)
+[<img src="https://www.getmangos.eu/!assets_mangos/oldlogo2.png" width="32" valign="middle"/>](http://getmangos.eu) The last one being a copyright violation of a chinese Tv channel !
 <br>But have settled on the 
 [<img src="https://www.getmangos.eu/!assets_mangos/currentlogo.gif" width="32" valign="middle"/>](http://getmangos.eu) family of icons designed by UnkleNuke which vary slightly by core/expansion.
 
