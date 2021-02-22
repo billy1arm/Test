@@ -15,13 +15,15 @@ Build Status: <br/>Linux
 
 **Mangos** is an open source project written in [C++][7]. It's fast, runs on multiple
 platforms and stores game data in [MySQL][40] or [MariaDB][41]. It also has 
-optional support for SOAP, and aims to be 100% compatible with [World of Warcraft][2]
-in the final three vanilla versions, namely [patch 1.12.1][4], [patch 1.12.2][5] and [patch 1.12.3][6].
-<br>**IT DOES NOT SUPPORT 1.13.x** and beyond which is the newly released Classic Experience (NuClassic).
+optional support for SOAP.
 
 If you liked the original incarnation of [World of Warcraft][2] and still want to play it,
 this is the branch for you. We provide an authentication server where you can manage your users, 
 and a world server which serves game content just like the original did back then.
+
+<br>It aims to be 100% compatible with the 3 final versions of Vanilla [World of Warcraft][2], 
+namely [patch 1.12.1][4], [patch 1.12.2][5] & [patch 1.12.3][6].
+<br>**IT DOES NOT SUPPORT 1.13.x** and beyond which is the newly released Classic Experience (NuClassic).
 
 On top of that each update is automatically built by [Travis CI][16] (Linux/MAC) and [AppVeyor][17] (Windows)
 as you can see by the images in the heading above! We do love green builds, and working things.
