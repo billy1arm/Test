@@ -1,5 +1,6 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://www.getmangos.eu)
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
+[<img src='Images/MangosBanner.png' border=0>](https://www.getmangos.eu)
 
 Build Status:<br><b>Linux/MAC:</b> Coming Soon
 <b>Windows:</b> Coming Soon
