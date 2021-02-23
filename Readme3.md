@@ -7,7 +7,7 @@
  **MangosZero - Vanilla World of Warcraft Database**
 ===
 
-This is the database to support the Mangoszero server.
+This is the database to support the MangosZero server.
 
 It aims to be 100% compatible with the 3 final versions of Vanilla [World of Warcraft][2], 
 namely [patch 1.12.1][4], [patch 1.12.2][5] & [patch 1.12.3][6].
