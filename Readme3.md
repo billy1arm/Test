@@ -99,7 +99,7 @@ Acknowledgements
 --------
 World of Warcraft, and all related art, images, and lore are copyright [Blizzard Entertainment, Inc.][1]
 
-
+[1]: http://blizzard.com/ "Blizzard Entertainment Inc. · we love you!"
 [2]: http://blizzard.com/games/wow/ "World of Warcraft · Classic / Vanilla"
 [4]: http://www.wowpedia.org/Patch_1.12.1 "Vanilla WoW · Patch 1.12.1 release notes"
 [5]: http://www.wowpedia.org/Patch_1.12.2 "Vanilla WoW · Patch 1.12.2 release notes"
