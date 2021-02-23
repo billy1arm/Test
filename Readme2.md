@@ -107,7 +107,7 @@ We welcome anyone who is interested in enjoying older versions of wow or contrib
 
 **Discord Server**
 ----
-[![Widget for the Discord API guild](https://discord.com/api/guilds/286167585270005763/widget.png?style=banner2)](https://discord.gg/discord-api) 
+[![Widget for the Discord API guild](https://discord.com/api/guilds/286167585270005763/widget.png?style=banner2)](https://discord.gg/CzXcBXq) 
 
 **Main Wiki**
 ----
