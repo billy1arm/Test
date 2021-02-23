@@ -4,7 +4,7 @@
 ---
 
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
- **MangosZero - Vanilla World of Warcraft server**
+ **MangosZero - Vanilla World of Warcraft Database**
 ===
 
 If you liked the original incarnation of [World of Warcraft][2] and still want to play it,
