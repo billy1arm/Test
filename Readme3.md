@@ -1,22 +1,11 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://www.getmangos.eu)
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
 
-Build Status:<br><b>Linux/MAC:</b>
-[<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle">](https://travis-ci.org/mangoszero/server/builds)
-<b>Windows:</b>
-[<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=develop21&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-9fytl/history)
- <b>Codacy Status:</b> 
-[<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://www.codacy.com/app/MaNGOS/MangosZero?utm_source=github.com&utm_medium=referral&utm_content=mangoszero/server&utm_campaign=Badge_Grade)
-
 ---
 
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
  **MangosZero - Vanilla World of Warcraft server**
 ===
-
-**Mangos** is an open source project written in [C++][7]. It's fast, runs on multiple
-platforms and stores game data in [MySQL][40] or [MariaDB][41]. It also has 
-optional support for SOAP.
 
 If you liked the original incarnation of [World of Warcraft][2] and still want to play it,
 this is the branch for you. We provide an authentication server where you can manage your users, 
@@ -25,37 +14,6 @@ and a world server which serves game content just like the original did back the
 It aims to be 100% compatible with the 3 final versions of Vanilla [World of Warcraft][2], 
 namely [patch 1.12.1][4], [patch 1.12.2][5] & [patch 1.12.3][6].
 <br>**IT DOES NOT SUPPORT 1.13.x** and beyond which is the newly released Classic Experience (NuClassic).
-
-On top of that each update is automatically built by [Travis CI][16] (Linux/MAC) and [AppVeyor][17] (Windows)
-as you can see by the images in the heading above! We do love green builds, and working things.
-
-Requirements
-------------
-The server supports a wide range of operating systems, and various compiler platforms.
-In order to do that, we use various free cross-platform libraries and use [CMake][19] to provide
-a cross-platform build system which adapts to your chosen operating system and compiler.
-
-Operating systems
------------------
-Currently we support running the server on the following operating systems:
-
-* **Windows**, 32 bit and 64 bit. [Windows][20] Server 2008 (or newer) or Windows 7 (or newer) is recommended.
-* **Linux**, 32 bit and 64 bit. [Debian 7][21] and [Ubuntu 12.04 LTS][22] are
-  recommended. Other distributions with similar package versions will work, too.
-* **BSD**, 32 bit and 64 bit. [FreeBSD][23], [NetBSD][24], [OpenBSD][25] are recommended.
-
-Of course, newer versions should work, too. In the case of Windows, matching
-server versions will work, too.
-
-Compilers
----------
-Building the server is currently possible with these compilers:
-
-* **Microsoft Visual Studio 32 bit and 64 bit.** All editions of [Visual Studio][31]
-from 2015 upwards are officially supported.
-
-* **Clang**, 32 bit and 64 bit. The [Clang compiler][33] can be used on any
-  supported operating system.
 
 Dependencies
 ------------
@@ -67,32 +25,6 @@ their systems package management instead of source packages.**
 
 * **MySQL** / **MariaDB**: to store content, and user data, we rely on
   [MySQL][40]/[MariaDB][41] to handle data.
-* **ACE**: the [ADAPTIVE Communication Environment][43] aka. *ACE* provides us
-  with a solid cross-platform framework for abstracting operating system
-  specific details.
-* **Recast**: in order to create navigation data from the client's map files,
-  we use [Recast][44] to do the dirty work. It provides functions for
-  rendering, pathing, etc.
-* **G3D**: the [G3D][45] engine provides the basic framework for handling 3D
-  data, and is used to handle basic map data.
-* **Stormlib**: [Stormlib][46] provides an abstraction layer for reading from the
-  client's data files.
-* **Zlib**: [Zlib][53] ([Zlib for Windows][51]) provides compression algorithms
-  used in both MPQ archive handling and the client/server protocol.
-* **Bzip2**: [Bzip2][54] ([Bzip2 for Windows][52]) provides compression
-  algorithms used in MPQ archives.
-* **OpenSSL**: [OpenSSL][48] ([OpenSSL for Windows][55]) provides encryption
-  algorithms used when authenticating clients.
-
-**ACE**, **Recast**, **G3D**, **Stormlib**, **Zlib** and **Bzip2** are included in the standard distribution as
-we rely on specific versions.
-
-Optional dependencies
----------------------
-
-* **Doxygen**: if you want to export HTML or PDF formatted documentation for the
-  Mangos API, you should install [Doxygen][49].
-
 
 <br>We have a small, but extremely friendly and helpful community managed by MadMax and Antz.
 <br>Any trolling or unpleasantness is swiftly dealt with !!
@@ -124,10 +56,21 @@ Found an issue or something which doesn't seem right, please log it in the relev
 
 * [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/mangos-zero/)
 
+**How to Install**
+----
+
+**Linux**
+
+Run: `InstallDatabases.sh` and follow the onscreen prompts.
+
+**Windows**
+
+Run: `InstallDatabases.bat` and follow the onscreen prompts.
+
 **Installation Guides**
 ----
 
-Installation instructions for various operation systems can be found here.
+More comprehensive Installation instructions for various operation systems can be found here.
 
 * [**Installation Guides**](https://www.getmangos.eu/wiki/documentation/installation-guides/) 
 
