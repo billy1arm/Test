@@ -7,9 +7,7 @@
  **MangosZero - Vanilla World of Warcraft Database**
 ===
 
-If you liked the original incarnation of [World of Warcraft][2] and still want to play it,
-this is the branch for you. We provide an authentication server where you can manage your users, 
-and a world server which serves game content just like the original did back then.
+This is the database to support the Mangoszero server.
 
 It aims to be 100% compatible with the 3 final versions of Vanilla [World of Warcraft][2], 
 namely [patch 1.12.1][4], [patch 1.12.2][5] & [patch 1.12.3][6].
