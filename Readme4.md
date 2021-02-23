@@ -11,8 +11,7 @@ Build Status:<br><b>Linux/MAC:</b> Coming Soon
 [<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>](http://makeapullrequest.com)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/mangosserver/mangossharp/badge)](https://www.codefactor.io/repository/github/mangosserver/mangossharp)
-[![core-build](https://github.com/mangosserver/mangossharp/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/mangosserver/mangossharp/actions?query=workflow%3Acore-build+branch%3Amaster+event%3Apush)
-[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/CzXcBXq "Our community hub on Discord")
+[![.NET](https://github.com/MangosServer/MangosSharp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MangosServer/MangosSharp/actions/workflows/dotnet.yml)[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/CzXcBXq "Our community hub on Discord")
 
 
 ---
