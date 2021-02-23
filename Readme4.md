@@ -1,18 +1,16 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://www.getmangos.eu)
-[<img src='images/MangosBanner.png' border=0>](https://www.getmangos.eu)
+[<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
 
-Build Status:<br><b>Linux/MAC:</b> Coming Soon
-<b>Windows:</b> Coming Soon
+Build Status:<br><b>Windows:</b> 
+[<img src='https://github.com/MangosServer/MangosSharp/actions/workflows/dotnet.yml/badge.svg' border=0 valign="middle"/>](https://github.com/MangosServer/MangosSharp/actions/workflows/dotnet.yml)
  <b>Codacy Status:</b> 
-[<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
+[<img src='https://api.codacy.com/project/badge/Grade/f77c3dbb9e124188b0cf4ec6da878721' border=0 valign="middle"/>](https://app.codacy.com/gh/MangosServer/MangosSharp/dashboard)
+[<img src='https://www.codefactor.io/repository/github/mangosserver/mangossharp/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosserver/mangossharp)
 <br>
-[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/CzXcBXq "Our community hub on Discord")
+[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
 [<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>](http://makeapullrequest.com)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/mangosserver/mangossharp.svg)](http://isitmaintained.com/project/mangosserver/mangossharp "Percentage of issues still open")
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mangosserver/mangossharp.svg)](http://isitmaintained.com/project/mangosserver/mangossharp "Average time to resolve an issue")
-[![.NET](https://github.com/MangosServer/MangosSharp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MangosServer/MangosSharp/actions/workflows/dotnet.yml)
-
-[![CodeFactor](https://www.codefactor.io/repository/github/mangosserver/mangossharp/badge)](https://www.codefactor.io/repository/github/mangosserver/mangossharp)
 
 ---
 
@@ -77,7 +75,7 @@ The repository of as much information as we can pack in. Details regarding the D
 
 Found an issue or something which doesn't seem right, please log it in the relevant section of the Bug Tracker.
 
-* [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/others/mangos-sharpe/)
+* [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/others/mangos-sharp/)
 
 **Installation Guides**
 ----
