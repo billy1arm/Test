@@ -2,7 +2,7 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
- Linux/MAC: [<img src='https://travis-ci.com/mangosfive/server.png' border=0 valign="middle">](https://travis-ci.com/mangosfive/server/builds)
+ Linux/MAC: [<img src='https://travis-ci.com/mangosfive/server.svg?branch=master' border=0 valign="middle">](https://travis-ci.com/mangosfive/server/builds)
  Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangosfive/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-xxxxxx/history)
  <br><b>Repository Status:</b> 
 [<img src='https://api.codacy.com/project/badge/Grade/xxxxxxxxxxxxxxxxx' border=0 valign="middle"/>](https://app.codacy.com/gh/mangosfive/server/dashboard)
