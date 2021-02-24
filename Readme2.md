@@ -13,6 +13,19 @@
 [<img src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat' border=0 valign="middle"/>](http://makeapullrequest.com)
 [<img src='https://img.shields.io/discord/286167585270005763.svg' border=0 valign="middle"/>](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
 
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
+[<img src='https://www.codefactor.io/repository/github/mangosone/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosone/server)
+<br><b>Repository Status:</b>
+[<img src='http://isitmaintained.com/badge/open/mangosone/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosone/server "Percentage of issues still open")
+[<img src='http://isitmaintained.com/badge/resolution/mangosone/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosone/server "Average time to resolve an issue")
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
+[<img src='https://www.codefactor.io/repository/github/mangostwo/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangostwo/server)
+<br><b>Repository Status:</b>
+[<img src='http://isitmaintained.com/badge/open/mangostwo/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangostwo/server "Percentage of issues still open")
+[<img src='http://isitmaintained.com/badge/resolution/mangostwo/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangostwo/server "Average time to resolve an issue")
+
 ---
 
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
