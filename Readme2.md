@@ -128,7 +128,7 @@ We welcome anyone who is interested in enjoying older versions of wow or contrib
 
 We also have a Discord server where many of us hang out and discuss Mangos related stuff.
 
-* [**Discord Server**](https://discord.gg/CzXcBXq) 
+* [**Discord Server**](https://discord.gg/fPxMjHS8xs) 
 
 **Main Wiki**
 ----
