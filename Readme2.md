@@ -7,11 +7,11 @@
 <br><b>Code Stats:</b> 
 [<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="top"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
 [<img src='https://www.codefactor.io/repository/github/mangoszero/server/badge' border=0 valign="top"/>](https://www.codefactor.io/repository/github/mangoszero/server)
-<br>
-[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
-[<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>](http://makeapullrequest.com)
+<br><b>Repository Status:</b>
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/mangoszero/server.svg)](http://isitmaintained.com/project/mangoszero/server "Percentage of issues still open")
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mangoszero/server.svg)](http://isitmaintained.com/project/mangoszero/server "Average time to resolve an issue")
+[<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>](http://makeapullrequest.com)
+[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
 
 ---
 
