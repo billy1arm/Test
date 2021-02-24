@@ -5,7 +5,7 @@ Build Status:<br><b>Linux/MAC:</b>
 [<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle">](https://travis-ci.org/mangoszero/server/builds)
 <b>Windows:</b>
 [<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-9fytl/history)
- <b>Codacy Status:</b> 
+ <b>Code Stats:</b> 
 [<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
 [<img src='https://www.codefactor.io/repository/github/mangoszero/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangoszero/server)
 <br>
