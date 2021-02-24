@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
  Linux/MAC: [<img src='https://travis-ci.com/mangosfive/server.svg?branch=master' border=0 valign="middle">](https://travis-ci.com/mangosfive/server/builds)
- Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangosfive/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-xxxxxx/history)
+ Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangosfive/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-6b34i/history)
  <br><b>Repository Status:</b> 
 [<img src='https://api.codacy.com/project/badge/Grade/xxxxxxxxxxxxxxxxx' border=0 valign="middle"/>](https://app.codacy.com/gh/mangosfive/server/dashboard)
 [<img src='https://www.codefactor.io/repository/github/mangosfive/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosfive/server)
