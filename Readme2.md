@@ -7,6 +7,12 @@ Build Status:<br><b>Linux/MAC:</b>
 [<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-9fytl/history)
  <b>Codacy Status:</b> 
 [<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
+[<img src='https://www.codefactor.io/repository/github/mangoszero/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangoszero/server)
+<br>
+[![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
+[<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>](http://makeapullrequest.com)
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/mangoszero/server.svg)](http://isitmaintained.com/project/mangoszero/server "Percentage of issues still open")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mangoszero/server.svg)](http://isitmaintained.com/project/mangoszero/server "Average time to resolve an issue")
 
 ---
 
@@ -105,9 +111,13 @@ We welcome anyone who is interested in enjoying older versions of wow or contrib
 
 * [**Official MaNGOS Website**](https://getmangos.eu/)  
 
+
 **Discord Server**
 ----
-[![Widget for the Discord API guild](https://discord.com/api/guilds/286167585270005763/widget.png?style=banner2)](https://discord.gg/CzXcBXq) 
+
+We also have a Discord server where many of us hang out and discuss Mangos related stuff.
+
+* [**Discord Server**](https://discord.gg/CzXcBXq) 
 
 **Main Wiki**
 ----
