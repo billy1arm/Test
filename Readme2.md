@@ -37,6 +37,13 @@
 <br><b>Repository Status:</b>
 [<img src='http://isitmaintained.com/badge/open/mangosfour/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosfour/server "Percentage of issues still open")
 [<img src='http://isitmaintained.com/badge/resolution/mangosfour/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosfour/server "Average time to resolve an issue")
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
+[<img src='https://www.codefactor.io/repository/github/mangosvb/serverzero/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosvb/serverzero)
+<br><b>Repository Status:</b>
+[<img src='http://isitmaintained.com/badge/open/mangosvb/serverzero.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/serverzero "Percentage of issues still open")
+[<img src='http://isitmaintained.com/badge/resolution/mangosvb/serverzero.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/serverzero "Average time to resolve an issue")
+
 ---
 
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
