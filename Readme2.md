@@ -8,55 +8,30 @@
 [<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
 [<img src='https://www.codefactor.io/repository/github/mangoszero/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangoszero/server)
 <br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangoszero/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangoszero/server "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangoszero/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangoszero/server "Average time to resolve an issue")
 [<img src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat' border=0 valign="middle"/>](http://makeapullrequest.com)
 [<img src='https://img.shields.io/discord/286167585270005763.svg' border=0 valign="middle"/>](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
 
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangosone/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosone/server)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangosone/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosone/server "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangosone/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosone/server "Average time to resolve an issue")
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangostwo/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangostwo/server)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangostwo/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangostwo/server "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangostwo/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangostwo/server "Average time to resolve an issue")
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangosthree/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosthree/server)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangosthree/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosthree/server "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangosthree/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosthree/server "Average time to resolve an issue")
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangosfour/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosfour/server)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangosfour/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosfour/server "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangosfour/server.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosfour/server "Average time to resolve an issue")
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangosvb/serverzero/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosvb/serverzero)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangosvb/serverzero.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/serverzero "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangosvb/serverzero.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/serverzero "Average time to resolve an issue")
-
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangosvb/serverone/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosvb/serverone)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangosvb/serverone.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/serverone "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangosvb/serverone.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/serverone "Average time to resolve an issue")
-
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Code Stats:</b> 
 [<img src='https://www.codefactor.io/repository/github/mangosvb/servertwo/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosvb/servertwo)
-<br><b>Repository Status:</b>
-[<img src='http://isitmaintained.com/badge/open/mangosvb/servertwo.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/servertwo "Percentage of issues still open")
-[<img src='http://isitmaintained.com/badge/resolution/mangosvb/servertwo.svg' border=0 valign="middle"/>](http://isitmaintained.com/project/mangosvb/servertwo "Average time to resolve an issue")
 
 ---
 
