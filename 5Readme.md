@@ -5,7 +5,7 @@
  Linux/MAC: [<img src='https://travis-ci.com/mangosfive/server.svg?branch=master' border=0 valign="middle">](https://travis-ci.com/mangosfive/server/builds)
  Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangosfive/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-6b34i/history)
  <br><b>Repository Status:</b> 
-[<img src='https://api.codacy.com/project/badge/Grade/xxxxxxxxxxxxxxxxx' border=0 valign="middle"/>](https://app.codacy.com/gh/mangosfive/server/dashboard)
+[<img src='https://api.codacy.com/project/badge/Grade/ef4f94eb283e41248a1e652ed355b66d' border=0 valign="middle"/>](https://app.codacy.com/gh/mangosfive/server/dashboard)
 [<img src='https://www.codefactor.io/repository/github/mangosfive/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosfive/server)
 [<img src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat' border=0 valign="middle"/>](http://makeapullrequest.com)
 [<img src='https://img.shields.io/discord/286167585270005763.svg' border=0 valign="middle"/>](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
