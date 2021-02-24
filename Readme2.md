@@ -2,11 +2,11 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
 
 <B>Build Status:</b>
- Linux/MAC: [<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle">](https://travis-ci.org/mangoszero/server/builds)
- Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-9fytl/history)
+ Linux/MAC: [<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="top">](https://travis-ci.org/mangoszero/server/builds)
+ Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=master&svg=true' border=0 valign="top">](https://ci.appveyor.com/project/MaNGOS/server-9fytl/history)
 <br><b>Code Stats:</b> 
-[<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
-[<img src='https://www.codefactor.io/repository/github/mangoszero/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangoszero/server)
+[<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="top"/>](https://app.codacy.com/gh/mangoszero/server/dashboard)
+[<img src='https://www.codefactor.io/repository/github/mangoszero/server/badge' border=0 valign="top"/>](https://www.codefactor.io/repository/github/mangoszero/server)
 <br>
 [![Discord](https://img.shields.io/discord/286167585270005763.svg)](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
 [<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>](http://makeapullrequest.com)
