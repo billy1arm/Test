@@ -2,30 +2,30 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
- Linux/MAC: [<img src='https://travis-ci.org/mangosfour/server.png' border=0 valign="middle">](https://travis-ci.org/mangosfour/server/builds)
- Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangosfour/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server/history)
+ Linux/MAC: [<img src='https://travis-ci.org/mangosfive/server.png' border=0 valign="middle">](https://travis-ci.org/mangosfive/server/builds)
+ Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangosfive/server?branch=master&svg=true' border=0 valign="middle">](https://ci.appveyor.com/project/MaNGOS/server-xxxxxx/history)
  <br><b>Repository Status:</b> 
-[<img src='https://api.codacy.com/project/badge/Grade/24c2748fb6164216878f28ab4f6cb0f9' border=0 valign="middle"/>](https://app.codacy.com/gh/mangosfour/server/dashboard)
-[<img src='https://www.codefactor.io/repository/github/mangosfour/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosfour/server)
+[<img src='https://api.codacy.com/project/badge/Grade/xxxxxxxxxxxxxxxxx' border=0 valign="middle"/>](https://app.codacy.com/gh/mangosfive/server/dashboard)
+[<img src='https://www.codefactor.io/repository/github/mangosfive/server/badge' border=0 valign="middle"/>](https://www.codefactor.io/repository/github/mangosfive/server)
 [<img src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat' border=0 valign="middle"/>](http://makeapullrequest.com)
 [<img src='https://img.shields.io/discord/286167585270005763.svg' border=0 valign="middle"/>](https://discord.gg/fPxMjHS8xs "Our community hub on Discord")
 
 ---
 
-[<img src="https://www.getmangos.eu/!assets_mangos/Mangos4.png" width="48" valign="middle"/>](http://getmangos.eu)
- **MangosFour - The Mists of Pandaria WoW server**
+[<img src="https://www.getmangos.eu/!assets_mangos/Mangos5.png" width="48" valign="middle"/>](http://getmangos.eu)
+ **MangosFive - Warlords of Draenor WoW server**
 ===
 
 **Mangos** is an open source project written in [C++][7]. It's fast, runs on multiple
 platforms and stores game data in [MySQL][40] or [MariaDB][41]. It also has 
 optional support for SOAP.
 
-If you liked the fifth incarnation of [World of Warcraft][2] and still want to play it,
+If you liked the sixth incarnation of [World of Warcraft][2] and still want to play it,
 this is the branch for you. We provide an authentication server where you can manage your users, 
 and a world server which serves game content just like the original did back then.
 
-It aims to be 100% compatible with the final version of MOP [World of Warcraft][2]
-namely [patch 5.4.8][4].
+It aims to be 100% compatible with the final version of WOD [World of Warcraft][2]
+namely [patch 6.2.4][4].
 
 On top of that each update is automatically built by [Travis CI][16] (Linux/MAC) and [AppVeyor][17] (Windows)
 as you can see by the images in the heading above! We do love green builds, and working things.
@@ -116,7 +116,7 @@ The repository of as much information as we can pack in. Details regarding the D
 
 Found an issue or something which doesn't seem right, please log it in the relevant section of the Bug Tracker.
 
-* [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/mangos-four/)
+* [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/mangos-five/)
 
 **Installation Guides**
 ----
@@ -161,7 +161,7 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 
 [1]: http://blizzard.com/ "Blizzard Entertainment Inc. · we love you!"
 [2]: https://worldofwarcraft.com/ "World of Warcraft"
-[4]: http://www.wowpedia.org/Patch_5.4.8 "WoW Mists of Pandaria · Patch 5.4.8 release notes"
+[4]: http://www.wowpedia.org/Patch_6.2.4 "WoW Warlords of Draenor · Patch 6.2.4 release notes"
 [7]: http://www.cppreference.com/ "C / C++ reference"
 [10]: https://getmangos.eu/ "mangos · project site"
 [12]: https://github.com/mangosthree "MaNGOS Three· github organization"
