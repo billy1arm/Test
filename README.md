@@ -1,4 +1,4 @@
-[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://getmangos.eu)
+[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://github.com/mangos/mangos/mangosFamily.md "The MaNGOS family of Icons")
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://getmangos.eu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
@@ -12,7 +12,7 @@
 
 ---
 
-[<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
+[<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](https://github.com/mangos/mangos/mangosFamily.md "The MaNGOS family of Icons")
  **MangosZero - Vanilla WoW server**
 ===
 
@@ -185,7 +185,6 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [33]: http://clang.llvm.org/ "clang - a C language family frontend for LLVM"
 [34]: http://git-scm.com/ "Git - Distributed version control system"
 [35]: http://windows.github.com/ "github - windows client"
-
 [40]: http://www.mysql.com/ "MySQL - The world's most popular open source database"
 [41]: http://www.mariadb.org/ "MariaDB - An enhanced, drop-in replacement for MySQL"
 [43]: http://www.dre.vanderbilt.edu/~schmidt/ACE.html "ACE - The ADAPTIVE Communication Environment"
@@ -199,4 +198,3 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [53]: http://www.zlib.net/ "Zlib"
 [54]: http://www.bzip.org/ "Bzip2"
 [55]: http://slproweb.com/products/Win32OpenSSL.html "OpenSSL for Windows"
-
