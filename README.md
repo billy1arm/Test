@@ -1,5 +1,5 @@
-[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>]([3])
-[<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>]([3])
+[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://getmangos.eu)
+[<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://getmangos.eu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
  Linux/MAC: [<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle">](https://travis-ci.org/mangoszero/server/builds)
