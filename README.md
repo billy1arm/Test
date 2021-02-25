@@ -41,7 +41,7 @@ Operating systems
 -----------------
 Currently we support running the server on the following operating systems:
 
-* **Windows**, 32 bit and 64 bit. [Windows][20] Server 2008 (or newer) or Windows 7 (or newer) is recommended.
+* **[Windows][20]**, 32 bit and 64 bit. Windows Server 2008 (or newer) or Windows 7 (or newer) is recommended.
 * **Linux**, 32 bit and 64 bit. [Debian 7][21] and [Ubuntu 12.04 LTS][22] are
   recommended. Other distributions with similar package versions will work, too.
 * **BSD**, 32 bit and 64 bit. [FreeBSD][23], [NetBSD][24], [OpenBSD][25] are recommended.
@@ -53,10 +53,10 @@ Compilers
 ---------
 Building the server is currently possible with these compilers:
 
-* **Microsoft Visual Studio 32 bit and 64 bit.** All editions of [Visual Studio][31]
+* **[Microsoft Visual Studio][31] 32 bit and 64 bit.** All editions of Visual Studio
 from 2015 upwards are officially supported.
 
-* **Clang**, 32 bit and 64 bit. The [Clang compiler][33] can be used on any
+* **[Clang][33]**, 32 bit and 64 bit. The Clang compiler can be used on any
   supported operating system.
 
 Dependencies
@@ -89,7 +89,7 @@ Optional dependencies
 <br>We have a small, but extremely friendly and helpful community managed by MadMax and Antz.
 
 
-<br>Our discord/forum motto is: 
+Our discord/forum motto is: 
 ```js
 'Be nice or Be somewhere else'
 ```
