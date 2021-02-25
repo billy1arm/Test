@@ -88,7 +88,7 @@ Optional dependencies
 
 <br>We have a small, but extremely friendly and helpful community managed by MadMax and Antz.
 <br>Any trolling or unpleasantness is swiftly dealt with !!
-<br>Our discord/forum motto is: ```Be nice or Be somewhere else```
+<br>Our discord/forum motto is: ```+Be nice or Be somewhere else```
 
 **Official Website**
 ----
