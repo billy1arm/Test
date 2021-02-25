@@ -70,7 +70,7 @@ their systems package management instead of source packages.**
 * **[Git][34] / [Github for Windows][35]**: This version control software allows you to get the source files in the first place.
 * **[MySQL][40]** / **[MariaDB][41]**: These databases are used to store content and user data.
 * **[ACE][43]**: aka Adaptive Communication Environment, provides us with a solid cross-platform framework for abstracting operating system specific details.
-* **[Recast][44]**: In order to create navigation data from the client's map files Recast is userd to do the dirty work. It provides functions for rendering, pathing, etc.
+* **[Recast][44]**: In order to create navigation data from the client's map files, Recast is used to do the dirty work. It provides functions for rendering, pathing, etc.
 * **[G3D][45]**: This engine provides the basic framework for handling 3D data and is used to handle basic map data.
 * **[Stormlib][46]**: Provides an abstraction layer for reading from the client's data files.
 * **[Zlib][53]/[Zlib for Windows][51]** provides compression algorithms used in both MPQ archive handling and the client/server protocol.
