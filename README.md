@@ -41,7 +41,7 @@ Operating systems
 -----------------
 Currently we support running the server on the following operating systems:
 
-* **[Windows][20]**, 32 bit and 64 bit. Windows Server 2008 (or newer) or Windows 7 (or newer) is recommended.
+* **[Windows][20]**, 32 bit and 64 bit. Windows Server 2008 (or newer) or Windows 8 (or newer) is recommended.
 * **Linux**, 32 bit and 64 bit. [Debian 7][21] and [Ubuntu 12.04 LTS][22] are
   recommended. Other distributions with similar package versions will work, too.
 * **BSD**, 32 bit and 64 bit. [FreeBSD][23], [NetBSD][24], [OpenBSD][25] are recommended.
