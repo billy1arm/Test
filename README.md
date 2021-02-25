@@ -1,5 +1,5 @@
-[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>]([8])
-[<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>]([8])
+[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>]([3])
+[<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>]([3])
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
  Linux/MAC: [<img src='https://travis-ci.org/mangoszero/server.png' border=0 valign="middle">](https://travis-ci.org/mangoszero/server/builds)
@@ -167,6 +167,7 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 
 [1]: http://blizzard.com/ "Blizzard Entertainment Inc. - We love you!"
 [2]: https://worldofwarcraft.com/ "World of Warcraft"
+[3]: https://www.getmangos.eu "Main MaNGOS Website"
 [4]: http://www.wowpedia.org/Patch_1.12.1 "Vanilla WoW - Patch 1.12.1 release notes"
 [5]: http://www.wowpedia.org/Patch_1.12.2 "Vanilla WoW - Patch 1.12.2 release notes"
 [6]: http://www.wowpedia.org/Patch_1.12.3 "Vanilla WoW - Patch 1.12.3 release notes"
@@ -199,5 +200,3 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [54]: http://www.bzip.org/ "Bzip2"
 [55]: http://slproweb.com/products/Win32OpenSSL.html "OpenSSL for Windows"
 
-[8]: 
-[9]: https://www.getmangos.eu "Main MaNGOS Website"
