@@ -93,7 +93,7 @@ Optional dependencies
 ```js
 'Be nice or Be somewhere else'
 ```
-<br>Any trolling or unpleasantness is swiftly dealt with !!
+Any trolling or unpleasantness is swiftly dealt with !!
 
 **Official Website**
 ----
