@@ -1,4 +1,4 @@
-[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>](https://www.getmangos.eu)
+[<img src='https://www.getmangos.eu/!assets_mangos/currentlogo.gif' width="48" border=0>]([9])
 [<img src='https://www.getmangos.eu/!assets_mangos/logo.png' border=0>](https://www.getmangos.eu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
@@ -165,36 +165,39 @@ Acknowledgements
 World of Warcraft, and all related art, images, and lore are copyright [Blizzard Entertainment, Inc.][1]
 
 
-[1]: http://blizzard.com/ "Blizzard Entertainment Inc. · we love you!"
+[1]: http://blizzard.com/ "Blizzard Entertainment Inc. - We love you!"
 [2]: https://worldofwarcraft.com/ "World of Warcraft"
-[4]: http://www.wowpedia.org/Patch_1.12.1 "Vanilla WoW · Patch 1.12.1 release notes"
-[5]: http://www.wowpedia.org/Patch_1.12.2 "Vanilla WoW · Patch 1.12.2 release notes"
-[6]: http://www.wowpedia.org/Patch_1.12.3 "Vanilla WoW · Patch 1.12.3 release notes"
+[4]: http://www.wowpedia.org/Patch_1.12.1 "Vanilla WoW - Patch 1.12.1 release notes"
+[5]: http://www.wowpedia.org/Patch_1.12.2 "Vanilla WoW - Patch 1.12.2 release notes"
+[6]: http://www.wowpedia.org/Patch_1.12.3 "Vanilla WoW - Patch 1.12.3 release notes"
 [7]: http://www.cppreference.com/ "C / C++ reference"
-[16]: https://travis-ci.org/mangoszero/server "Travis CI · Linux/MAC build status"
-[17]: https://ci.appveyor.com/ "AppVeyor Scan · Windows build status"
-[19]: http://www.cmake.org/ "CMake · Cross Platform Make"
+[16]: https://travis-ci.org/mangoszero/server "Travis CI - Linux/MAC build status"
+[17]: https://ci.appveyor.com/ "AppVeyor Scan - Windows build status"
+[19]: http://www.cmake.org/ "CMake - Cross Platform Make"
 [20]: http://windows.microsoft.com/ "Microsoft Windows"
-[21]: http://www.debian.org/ "Debian · The Universal Operating System"
-[22]: http://www.ubuntu.com/ "Ubuntu · The world's most popular free OS"
-[23]: http://www.freebsd.org/ "FreeBSD · The Power To Serve"
-[24]: http://www.netbsd.org/ "NetBSD · The NetBSD Project"
-[25]: http://www.openbsd.org/ "OpenBSD · Free, functional and secure"
+[21]: http://www.debian.org/ "Debian - The Universal Operating System"
+[22]: http://www.ubuntu.com/ "Ubuntu - The world's most popular free OS"
+[23]: http://www.freebsd.org/ "FreeBSD - The Power To Serve"
+[24]: http://www.netbsd.org/ "NetBSD - The NetBSD Project"
+[25]: http://www.openbsd.org/ "OpenBSD - Free, functional and secure"
 [31]: https://visualstudio.microsoft.com/vs/older-downloads/ "Visual Studio Downloads"
-[33]: http://clang.llvm.org/ "clang · a C language family frontend for LLVM"
-[34]: http://git-scm.com/ "Git · Distributed version control system"
-[35]: http://windows.github.com/ "github · windows client"
+[33]: http://clang.llvm.org/ "clang - a C language family frontend for LLVM"
+[34]: http://git-scm.com/ "Git - Distributed version control system"
+[35]: http://windows.github.com/ "github - windows client"
 
-[40]: http://www.mysql.com/ "MySQL · The world's most popular open source database"
-[41]: http://www.mariadb.org/ "MariaDB · An enhanced, drop-in replacement for MySQL"
-[43]: http://www.dre.vanderbilt.edu/~schmidt/ACE.html "ACE · The ADAPTIVE Communication Environment"
-[44]: http://github.com/memononen/recastnavigation "Recast · Navigation-mesh Toolset for Games"
-[45]: http://sourceforge.net/projects/g3d/ "G3D · G3D Innovation Engine"
-[46]: http://zezula.net/en/mpq/stormlib.html "Stormlib · A library for reading data from MPQ archives"
-[48]: http://www.openssl.org/ "OpenSSL · The Open Source toolkit for SSL/TLS"
-[49]: http://www.stack.nl/~dimitri/doxygen/ "Doxygen · API documentation generator"
+[40]: http://www.mysql.com/ "MySQL - The world's most popular open source database"
+[41]: http://www.mariadb.org/ "MariaDB - An enhanced, drop-in replacement for MySQL"
+[43]: http://www.dre.vanderbilt.edu/~schmidt/ACE.html "ACE - The ADAPTIVE Communication Environment"
+[44]: http://github.com/memononen/recastnavigation "Recast - Navigation-mesh Toolset for Games"
+[45]: http://sourceforge.net/projects/g3d/ "G3D - G3D Innovation Engine"
+[46]: http://zezula.net/en/mpq/stormlib.html "Stormlib - A library for reading data from MPQ archives"
+[48]: http://www.openssl.org/ "OpenSSL - The Open Source toolkit for SSL/TLS"
+[49]: http://www.stack.nl/~dimitri/doxygen/ "Doxygen - API documentation generator"
 [51]: http://gnuwin32.sourceforge.net/packages/zlib.htm "Zlib for Windows"
 [52]: http://gnuwin32.sourceforge.net/packages/bzip2.htm "Bzip2 for Windows"
 [53]: http://www.zlib.net/ "Zlib"
 [54]: http://www.bzip.org/ "Bzip2"
 [55]: http://slproweb.com/products/Win32OpenSSL.html "OpenSSL for Windows"
+
+[8]: 
+[9]: https://www.getmangos.eu "Main MaNGOS Website"
