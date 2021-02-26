@@ -100,7 +100,7 @@ Any trolling or unpleasantness is swiftly dealt with !!
 
 We welcome anyone who is interested in enjoying older versions of wow or contributing and helping out !
 
-* [**Official MaNGOS Website**](https://getmangos.eu/)  
+* [**Official MaNGOS Website**][3]  
 
 **Discord Server**
 ----
@@ -114,7 +114,7 @@ We also have a Discord server where many of us hang out and discuss Mangos relat
 
 The repository of as much information as we can pack in. Details regarding the Database, file type definitions, packet definitons etc.
 
-* [**Wiki Table of Contents**](http://getmangos.eu/wiki)  
+* [**Wiki Table of Contents**][15]
 
 
 **Bug / Issue Tracker**
@@ -122,14 +122,14 @@ The repository of as much information as we can pack in. Details regarding the D
 
 Found an issue or something which doesn't seem right, please log it in the relevant section of the Bug Tracker.
 
-* [**Bug Tracker**](https://www.getmangos.eu/bug-tracker/mangos-zero/)
+* [**Bug Tracker**][16]
 
 **Installation Guides**
 ----
 
 Installation instructions for various operation systems can be found here.
 
-* [**Installation Guides**](https://www.getmangos.eu/wiki/documentation/installation-guides/) 
+* [**Installation Guides**][17] 
 
 
 License
@@ -180,7 +180,8 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [13]: https://www.codefactor.io/repository/github/mangoszero/server "Codefactor Code Status"
 [14]: http://makeapullrequest.com "Show PR's Welcome Icon"
 [15]: http://getmangos.eu/wiki "Mangos Wiki"
-
+[16]: https://www.getmangos.eu/bug-tracker/mangos-zero/ "Mangos Online tracker"
+[17]: https://www.getmangos.eu/wiki/documentation/installation-guides/ "Installation Guides"
 [19]: http://www.cmake.org/ "CMake - Cross Platform Make"
 [20]: http://windows.microsoft.com/ "Microsoft Windows"
 [21]: http://www.debian.org/ "Debian - The Universal Operating System"
