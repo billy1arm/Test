@@ -193,7 +193,7 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [33]: http://clang.llvm.org/ "clang - a C language family frontend for LLVM"
 [34]: http://git-scm.com/ "Git - Distributed version control system"
 [35]: http://windows.github.com/ "github - windows client"
-[40]: http://www.mysql.com/ "MySQL - The world's most popular open source database"
+[40]: https://dev.mysql.com/downloads/ "MySQL - The world's most popular open source database"
 [41]: http://www.mariadb.org/ "MariaDB - An enhanced, drop-in replacement for MySQL"
 [43]: http://www.dre.vanderbilt.edu/~schmidt/ACE.html "ACE - The ADAPTIVE Communication Environment"
 [44]: http://github.com/memononen/recastnavigation "Recast - Navigation-mesh Toolset for Games"
