@@ -194,7 +194,7 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [34]: http://git-scm.com/ "Git - Distributed version control system"
 [35]: http://windows.github.com/ "github - windows client"
 [40]: https://dev.mysql.com/downloads/ "MySQL - The world's most popular open source database"
-[41]: http://www.mariadb.org/ "MariaDB - An enhanced, drop-in replacement for MySQL"
+[41]: https://mariadb.org/download/ "MariaDB - An enhanced, drop-in replacement for MySQL"
 [43]: http://www.dre.vanderbilt.edu/~schmidt/ACE.html "ACE - The ADAPTIVE Communication Environment"
 [44]: http://github.com/memononen/recastnavigation "Recast - Navigation-mesh Toolset for Games"
 [45]: http://sourceforge.net/projects/g3d/ "G3D - G3D Innovation Engine"
