@@ -200,7 +200,7 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [45]: http://sourceforge.net/projects/g3d/ "G3D - G3D Innovation Engine"
 [46]: http://zezula.net/en/mpq/stormlib.html "Stormlib - A library for reading data from MPQ archives"
 [48]: http://www.openssl.org/ "OpenSSL - The Open Source toolkit for SSL/TLS"
-[49]: http://www.stack.nl/~dimitri/doxygen/ "Doxygen - API documentation generator"
+[49]: https://www.doxygen.nl/download.html "Doxygen - API documentation generator"
 [51]: http://gnuwin32.sourceforge.net/packages/zlib.htm "Zlib for Windows"
 [52]: http://gnuwin32.sourceforge.net/packages/bzip2.htm "Bzip2 for Windows"
 [53]: http://www.zlib.net/ "Zlib"
