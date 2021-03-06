@@ -2,7 +2,7 @@
 [<img src='https://www.getmangos.eu/!assets_mangos/logo2.png' border=0>][3]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Build Status:</b>
- Linux/MAC: [<img src='https://travis-ci.com/mangoszero/server.png' border=0 valign="middle">][10]
+ Linux/MAC: [<img src='https://github.com/mangoszero/server/actions/workflows/core_build.yml/badge.svg' border=0 valign="middle">][10]
  Windows: [<img src='https://ci.appveyor.com/api/projects/status/github/mangoszero/server?branch=master&svg=true' border=0 valign="middle">][11]
  <br><b>Repository Status:</b> 
 [<img src='https://api.codacy.com/project/badge/Grade/895a7434531a456ba12410ac585717c8' border=0 valign="middle"/>][12]
@@ -174,7 +174,7 @@ World of Warcraft, and all related art, images, and lore are copyright [Blizzard
 [7]: http://www.cppreference.com/ "C / C++ reference"
 [8]: https://github.com/mangos/MaNGOS/blob/master/mangosFamily.md "The MaNGOS family of Icons"
 [9]: https://discord.gg/fPxMjHS8xs "Our community hub on Discord"
-[10]: https://travis-ci.com/github/mangoszero/server/builds "Travis CI - Linux/MAC build status"
+[10]: https://github.com/mangoszero/server/actions/workflows/core_build.yml "Travis CI - Linux/MAC build status"
 [11]: https://ci.appveyor.com/project/MaNGOS/server-9fytl/history "AppVeyor Scan - Windows build status"
 [12]: https://app.codacy.com/gh/mangoszero/server/dashboard "Codacy Code Status"
 [13]: https://www.codefactor.io/repository/github/mangoszero/server "Codefactor Code Status"
