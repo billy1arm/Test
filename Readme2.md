@@ -37,6 +37,22 @@
 
 ---
 
+<p align="center">
+<a href="https://github.com/mangoszero/server/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mangoszero/server.svg?style=flat-square" />
+</a>
+	
+<a href="https://github.com/mangoszero/server/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mangoszero/server/total.svg?style=flat-square" />
+</a>
+
+<a href="https://github.com/mangoszero/server/commits/master">
+<img src="https://img.shields.io/github/last-commit/mangoszero/server.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub last commit">
+</p>
+
+---
+
 [<img src="https://www.getmangos.eu/!assets_mangos/Mangos0.png" width="48" valign="middle"/>](http://getmangos.eu)
  **MangosZero - Vanilla WoW server**
 ===
