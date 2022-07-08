@@ -47,6 +47,7 @@
 <a href="https://github.com/mangoszero/server/commits/master">
 <img src="https://img.shields.io/github/last-commit/mangoszero/server.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
+</a>
 </p>
 
 <p align="center"> MangosOne : 
@@ -59,7 +60,35 @@ alt="GitHub last commit">
 <a href="https://github.com/mangosone/server/commits/master">
 <img src="https://img.shields.io/github/last-commit/mangosone/server.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
+</a>
 </p>
+
+<p align="center"> MangosTwo : 
+<a href="https://github.com/mangostwo/server/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mangostwo/server.svg?style=flat-square" />
+</a>
+<a href="https://github.com/mangostwo/server/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mangostwo/server/total.svg?style=flat-square" />
+</a>
+<a href="https://github.com/mangostwo/server/commits/master">
+<img src="https://img.shields.io/github/last-commit/mangostwo/server.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub last commit">
+</a>
+</p>
+
+<p align="center"> MangosThree : 
+<a href="https://github.com/mangosthree/server/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mangosthree/server.svg?style=flat-square" />
+</a>
+<a href="https://github.com/mangosthree/server/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mangosthree/server/total.svg?style=flat-square" />
+</a>
+<a href="https://github.com/mangosthree/server/commits/master">
+<img src="https://img.shields.io/github/last-commit/mangosthree/server.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub last commit">
+</a>
+</p>
+
 
 ---
 
