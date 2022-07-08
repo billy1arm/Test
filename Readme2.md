@@ -37,17 +37,27 @@
 
 ---
 
-<p align="center">
+<p align="center"> MangosZero : 
 <a href="https://github.com/mangoszero/server/releases/latest" target="_blank">
 <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mangoszero/server.svg?style=flat-square" />
 </a>
-	
 <a href="https://github.com/mangoszero/server/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mangoszero/server/total.svg?style=flat-square" />
 </a>
-
 <a href="https://github.com/mangoszero/server/commits/master">
 <img src="https://img.shields.io/github/last-commit/mangoszero/server.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub last commit">
+</p>
+
+<p align="center"> MangosOne : 
+<a href="https://github.com/mangosone/server/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mangosone/server.svg?style=flat-square" />
+</a>
+<a href="https://github.com/mangosone/server/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mangosone/server/total.svg?style=flat-square" />
+</a>
+<a href="https://github.com/mangosone/server/commits/master">
+<img src="https://img.shields.io/github/last-commit/mangosone/server.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
 </p>
 
